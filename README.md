@@ -15,5 +15,8 @@
 
 ## Miscellaneous functions
 * Additional functionality of this program includes:
-** hi there
+   * User is able to sort the queue in ascending order according to the user ids using the sortID function
+   * User is able to sort the queue in ascending order according to the user names using the sortUsername function
+   * User is able to reverse the queue usign the reverse function
+
 
