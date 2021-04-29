@@ -19,4 +19,9 @@
    * User is able to sort the queue in ascending order according to the user names using the sortUsername function
    * User is able to reverse the queue usign the reverse function
 
+## How to run this program?
+1. Run the make command in your terminal
+2. Proceeded by ./a4
+3. The program should be running now
+
 
